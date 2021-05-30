@@ -1,0 +1,57 @@
+name,source,gender,wikidata,type
+"Rue Frédéric et Irène Joliot-Curie",wikidata,+,Q150989;Q7504,relation
+"Avenue du Tertre Notre-Dame",wikidata,F,Q345,relation
+"Place Anna Politkovskaïa",wikidata,F,Q131240,way
+"Place Nina Simone",wikidata,F,Q174957,way
+"Rue Germaine Tillion",wikidata,F,Q271991,way
+"Rue Notre-Dame",wikidata,F,Q345,relation
+"Allée Bourvil",wikidata,M,Q2750,way
+"Allée Fernandel",wikidata,M,Q129092,way
+"Allée Louis de Funès",wikidata,M,Q2737,way
+"Allée Raimu",wikidata,M,Q1394721,way
+"Avenue Corneille",wikidata,M,Q747,relation
+"Boulevard Harel de la Noë",wikidata,M,Q3262142,relation
+"Boulevard Jean Macé",wikidata,M,Q3173305,relation
+"Boulevard René Pleven",wikidata,M,Q314545,way
+"Boulevard Waldeck-Rousseau",wikidata,M,Q358452,relation
+"Chemin Bronisław Geremek",wikidata,M,Q157282,way
+"Cour Francis Renaud",wikidata,M,Q2385890,way
+"Esplanade Alain Mimoun",wikidata,M,Q435068,way
+"Esplanade Alfred Jarry",wikidata,M,Q7841,way
+"Esplanade Patrick Dewaere",wikidata,M,Q551439,way
+"Passage Paul Langevin",wikidata,M,Q25320,way
+"Place Alexandre Glais-Bizoin",wikidata,M,Q332320,relation+way
+"Place Édouard Quemper",wikidata,M,Q99674302,way
+"Place François Mitterrand",wikidata,M,Q2038,way
+"Place Louis Guilloux",wikidata,M,Q862935,way
+"Place Saint-Guillaume",wikidata,M,Q3120127,way
+"Place Saint-Pierre",wikidata,M,Q33923,relation+way
+"Place du Général de Gaulle",wikidata,M,Q2042,relation+way
+"Place du Guesclin",wikidata,M,Q314905,relation+way
+"Rond-Point Clemenceau-Charner",wikidata,M,Q171730;Q1324547,way
+"Rond-Point Édouard Herriot",wikidata,M,Q274344,way
+"Rond-Point Max Le Bail",wikidata,M,Q104029903,way
+"Rond-Point Pablo Néruda",wikidata,M,Q34189,way
+"Rond-Point du Docteur Rochard",wikidata,M,Q16977188,way
+"Rue Claude Lévi-Strauss",wikidata,M,Q128126,way
+"Rue Docteur Roux",wikidata,M,Q286440,relation
+"Rue Édouard Vaillant",wikidata,M,Q274464,relation
+"Rue Élisée Reclus",wikidata,M,Q20951,relation
+"Rue Gaston Ramon",wikidata,M,Q673325,relation+way
+"Rue Georges Charpak",wikidata,M,Q153178,way
+"Rue Guy de Maupassant",wikidata,M,Q9327,way
+"Rue Jean Coquelin",wikidata,M,Q100152257,relation
+"Rue Jean Devienne",wikidata,M,Q106368817,relation
+"Rue Kléber",wikidata,M,Q319302,relation+way
+"Rue Montesquieu",wikidata,M,Q15975,relation
+"Rue Paul Bert",wikidata,M,Q735370,relation
+"Rue Paul Le Flem",wikidata,M,Q964256,way
+"Rue Pavlov",wikidata,M,Q42985,way
+"Rue Pierre de Coubertin",wikidata,M,Q82984,way
+"Rue Saint-Gouéno",wikidata,M,Q251442,relation+way
+"Rue Stendhal",wikidata,M,Q502,way
+"Rue Vaclav Havel",wikidata,M,Q36233,way
+"Rue de la Villemarqué",wikidata,M,Q1391034,way
+"Square Edmond Michelet",wikidata,M,Q871444,way
+"Square Jean Monnet",wikidata,M,Q159700,way
+"Venelle Achille du Clézieux",wikidata,M,Q16525196,way

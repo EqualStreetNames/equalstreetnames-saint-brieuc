@@ -1,0 +1,814 @@
+name,source,gender,wikidata,type
+"Allée Boileau",,,,way
+"Allée Chaptal",,,,relation
+"Allée Diderot",,,,relation
+"Allée Dulcie September",,,,relation
+"Allée Émile Romanet",,,,relation
+"Allée Flora Tristan",,,,relation
+"Allée Jacques Chaban-Delmas",,,,relation
+"Allée Jorge Semprún",,,,relation
+"Allée Le Nôtre",,,,relation
+"Allée Marie Le Vaillant",,,,relation
+"Allée Pierre Petit",,,,relation
+"Allée d'Île de France",,,,way
+"Allée de Batz",,,,relation
+"Allée de Beauvallon",,,,relation
+"Allée de Bréhat",,,,relation
+"Allée de Molène",,,,way
+"Allée de Sein",,,,relation
+"Allée de la Plaine",,,,way
+"Allée des Albatros",,,,relation
+"Allée des Frégates",,,,relation
+"Allée des Goëlands",,,,relation
+"Allée des Mouettes",,,,relation
+"Allée des Sirènes",,,,way
+"Allée du Champ de Mars",,,,way
+"Allée du Marché",,,,relation
+"Allée du Tertre Boissel",,,,relation
+"Avenue Antoine Mazier",,,,relation
+"Avenue Loucheur",,,,relation
+"Avenue Louis Aragon",,,,relation
+"Avenue Pierre Mendès France",,,,relation
+"Avenue d'Armor",,,,relation
+"Avenue d'Armorique",,,,relation
+"Avenue de France",,,,relation
+"Avenue de la Libération",,,,relation
+"Avenue des Plaines Villes",,,,way
+"Avenue des Promenades",,,,relation
+"Avenue des Tilleuls",,,,relation
+"Avenue du Cotentin",,,,relation
+"Avenue du Havre",,,,relation
+"Boulevard Arago",,,,relation
+"Boulevard Carnot",,,,relation
+"Boulevard Charner",,,,relation
+"Boulevard Clemenceau",,,,relation
+"Boulevard Édouard Herriot",,,,relation
+"Boulevard Édouard Prigent",,,,relation
+"Boulevard Gambetta",,,,relation
+"Boulevard Hérault",,,,relation
+"Boulevard Hoche",,,,relation
+"Boulevard Laennec",,,,relation
+"Boulevard Lamartine",,,,relation
+"Boulevard Pasteur",,,,relation
+"Boulevard Paul Doumer",,,,relation
+"Boulevard Robert Schuman",,,,relation
+"Boulevard Saint Jean-Baptiste de la Salle",,,,relation
+"Boulevard Sévigné",,,,relation
+"Boulevard Vauban",,,,relation
+"Boulevard de Plélo",,,,relation
+"Boulevard de l'Atlantique",,,,relation
+"Boulevard de la Chalotais",,,,way
+"Boulevard de la Commune",,,,relation
+"Boulevard de la Manche",,,,relation
+"Boulevard de la Mer",,,,relation
+"Boulevard de la Tour d'Auvergne",,,,relation
+"Boulevard de la Ville Jouha",,,,relation
+"Chemin de Belle Isle",,,,relation
+"Chemin de L'Écluse",,,,way
+"Chemin de la Gravelouse",,,,relation
+"Chemin de la Planche",,,,way
+"Chemin de la Porette",,,,relation
+"Chemin de la Ville Hesry",,,,relation
+"Chemin de la Ville Juhel",,,,relation
+"Chemin de la Ville Neuve",,,,relation
+"Chemin de la Ville Oger",,,,relation
+"Chemin des Courses",,,,relation
+"Chemin des Eaux Minérales",,,,relation+way
+"Chemin des Nouettes",,,,way
+"Chemin du Bas du Bois",,,,way
+"Chemin du Gué Gohel",,,,way
+"Chemin du Moulin au Chaix",,,,relation
+"Chemin du Petit Pré",,,,way
+"Chemin du Rieu",,,,relation
+"Chemin du Valais",,,,way
+"Cité Gourien",,,,relation
+"Côte Vendel",,,,relation+way
+"Côte de la Pêcherie",,,,relation
+"Cour Saint-Gouéno",,,,relation
+"Cours Saint-Gouéno",,,,way
+"Escalier Alfred de Musset",,,,relation
+"Escalier Montbareil",,,,way
+"Esplanade Georges Pompidou",,,,way
+"Esplanade Jacques Chirac",,,,way
+"Esplanade Professeur Jean Bernard",,,,way
+"Esplanade Raoul Poupard",,,,way
+"Esplanade des Prix Nobel",,,,relation
+"Esplanade du Petit Prince",,,,way
+"Impasse Alfred Kastler",,,,relation
+"Impasse Antoine Bourdelle",,,,relation
+"Impasse Coëtlogon",,,,relation
+"Impasse Cordière",,,,relation
+"Impasse James Bouillé",,,,relation
+"Impasse Morgan",,,,relation
+"Impasse Quinquaine",,,,relation
+"Impasse Saint Simon",,,,relation
+"Impasse Thiers",,,,relation
+"Impasse de la Sensive",,,,way
+"Impasse de la Ville Berno",,,,relation
+"Impasse de la Ville Drollée",,,,relation
+"Impasse de la Ville Gueury",,,,relation
+"Impasse du Champ des Nues",,,,relation
+"Impasse du Pré Tizon",,,,relation
+"Mail de L'Europe",,,,way
+"Passage Georges Brassens",,,,way
+"Passage Jean-Baptiste Illio",,,,relation
+"Passage Max Le Bail",,,,relation
+"Passage Souzain",,,,relation
+"Passage de l'Ancien Abattoir",,,,relation
+"Passage de la Fontaine à Loups",,,,relation
+"Passage du Rocher",,,,relation
+"Passage piéton G. Appolinaire",,,,way
+"Passage piéton Gouëdic",,,,way
+"Passerelle Beauvallon",,,,way
+"Passerelle Robert Schuman",,,,way
+"Piste Motocross et BMX",,,,way
+"Place Baratoux",,,,relation
+"Place Camille Pissaro",,,,relation
+"Place Haute",,,,relation
+"Place Jacquard",,,,relation+way
+"Place Octave Brilleaud",,,,relation
+"Place Saint-Michel",,,,relation
+"Place Sainte-Thérèse",,,,relation
+"Place au Lin",,,,relation
+"Place d'Alsdorf",,,,relation+way
+"Place de Normandie",,,,relation+way
+"Place de l'Hermine",,,,way
+"Place de la Cité",,,,relation+way
+"Place de la Fontaine Saint-Ignace",,,,relation
+"Place de la Grille",,,,way
+"Place de la Liberté",,,,relation+way
+"Place de la Madeleine",,,,way
+"Place de la Résistance",,,,relation
+"Place des Droits de l'Homme",,,,way
+"Place du 74e Régiment d'Infanterie Territoriale",,,,relation+way
+"Place du 8 Mai 1945",,,,way
+"Place du Chai",,,,relation
+"Place du Luxembourg",,,,relation+way
+"Place du Marché",,,,way
+"Place du Martray",,,,relation
+"Place du Perroquet Vert",,,,way
+"Place du Puits Chevalier",,,,way
+"Place du Puits au Lait",,,,relation
+"Place du Roi Arthur",,,,relation+way
+"Place du Savonnier",,,,way
+"Pont Balzac",,,,way
+"Pont de Pierre",,,,way
+"Quai Armez",,,,relation
+"Quai Surcouf",,,,relation
+"Rampe des Forges",,,,relation
+"Rond-Point Aberystwyth",,,,way
+"Rond-Point Agadez",,,,way
+"Rond-Point Alfred de Musset",,,,relation
+"Rond-Point Palasne de Champeaux",,,,way
+"Rond-Point d'Aghia Paraskevi",,,,relation
+"Rond-Point d'Iroise",,,,way
+"Rond-Point de Gabès",,,,way
+"Rond-Point de l'Ancien Vélodrome",,,,way
+"Rond-Point de l'Aurore",,,,relation
+"Rond-Point de la Corderie",,,,way
+"Rond-Point de la Croix Mathias",,,,way
+"Rond-Point de la Fontaine",,,,way
+"Rond-Point de la Ville Hellio",,,,way
+"Rond-Point de la Ville Jouha",,,,way
+"Rond-Point de la Ville Oger",,,,way
+"Rond-Point des Familles",,,,way
+"Rond-Point des Gallois",,,,way
+"Rond-Point du 19 Mars 1962",,,,way
+"Rond-Point du Camp de Rawa-Ruska",,,,way
+"Rond-Point du Lieutenant Huguin",,,,way
+"Rond-Point du Pont de Pierre",,,,way
+"Rue Abbé Duchesne",,,,relation
+"Rue Abbé Eugène Fleury",,,,relation
+"Rue Abbé Garnier",,,,relation
+"Rue Abbé Josselin",,,,relation
+"Rue Abbé Vallée",,,,relation
+"Rue Adrien Mion",,,,relation
+"Rue Alain-Fournier",,,,relation
+"Rue Albert Camus",,,,relation
+"Rue Albert Einstein",,,,relation
+"Rue Albert Schweitzer",,,,relation
+"Rue Albert Thomas",,,,relation
+"Rue Alexander Fleming",,,,relation
+"Rue Alexandre Dumas",,,,relation
+"Rue Alexandre Glais-Bizoin",,,,relation
+"Rue Alfred Sisley",,,,relation
+"Rue Alfred de Musset",,,,relation
+"Rue Alfred de Vigny",,,,relation
+"Rue Alphonse Daudet",,,,relation
+"Rue Ambroise Croizat",,,,relation
+"Rue Ambroise Paré",,,,relation
+"Rue Amiral Courbet",,,,relation
+"Rue Ampère",,,,relation
+"Rue Anatole France",,,,relation
+"Rue Anatole Le Braz",,,,relation
+"Rue André Chénier",,,,relation
+"Rue André Frossard",,,,relation
+"Rue André Gide",,,,relation
+"Rue André Malraux",,,,relation
+"Rue Anjela Duval",,,,relation
+"Rue Anne Frank",,,,relation
+"Rue Anne de Bretagne",,,,relation
+"Rue Antoine Bourdelle",,,,relation
+"Rue Aristide Briand",,,,relation
+"Rue Armand Robin",,,,relation
+"Rue Armel Beaufils",,,,relation
+"Rue Arthur Rimbaud",,,,relation
+"Rue Auguste Blanqui",,,,relation
+"Rue Auguste Lumière",,,,relation
+"Rue Auguste Pavie",,,,relation
+"Rue Auguste Perret",,,,relation
+"Rue Auguste Rodin",,,,relation
+"Rue Bachelard",,,,relation
+"Rue Bagot",,,,relation
+"Rue Balzac",,,,relation
+"Rue Baratoux",,,,relation
+"Rue Barde Abhervé",,,,relation
+"Rue Baudelaire",,,,relation
+"Rue Beaumarchais",,,,relation
+"Rue Bel-Orient",,,,relation
+"Rue Benoît Frachon",,,,relation
+"Rue Béranger",,,,relation
+"Rue Bergson",,,,relation
+"Rue Berlioz",,,,relation
+"Rue Bernard Locca",,,,relation
+"Rue Bernard Palissy",,,,relation
+"Rue Berthollet",,,,relation
+"Rue Bizet",,,,relation
+"Rue Blaise Pascal",,,,relation
+"Rue Boileau",,,,relation
+"Rue Bougainville",,,,relation
+"Rue Bourgault du Coudray",,,,relation
+"Rue Brizeux",,,,relation
+"Rue Buffon",,,,relation
+"Rue Camille Desmoulins",,,,relation
+"Rue Camille Guérin",,,,relation
+"Rue Cardenoual",,,,relation
+"Rue Célestin Bouglé",,,,relation
+"Rue Champlain",,,,relation
+"Rue Chapelain de la Ville Guérin",,,,relation
+"Rue Chaptal",,,,relation
+"Rue Charbonnerie",,,,relation
+"Rue Charles Collin",,,,relation
+"Rue Charles Delescluze",,,,relation
+"Rue Charles Le Goffic",,,,relation
+"Rue Charles Nicolle",,,,relation
+"Rue Charles Péguy",,,,relation
+"Rue Charles Perrault",,,,relation
+"Rue Charles Pradal",,,,relation
+"Rue Charles Richet",,,,relation
+"Rue Charles Seignobos",,,,relation
+"Rue Charles de Foucauld",,,,relation
+"Rue Charles le Maout",,,,relation
+"Rue Chateaubriand",,,,relation
+"Rue Chopin",,,,relation
+"Rue Christiaan Barnard",,,,relation
+"Rue Christine de Pisan",,,,relation
+"Rue Claude Bernard",,,,relation
+"Rue Claude Monet",,,,relation
+"Rue Clément Marot",,,,relation
+"Rue Coëtlogon",,,,relation
+"Rue Colbert",,,,relation
+"Rue Colette Besson",,,,relation
+"Rue Condorcet",,,,relation
+"Rue Connen de Prépean",,,,relation
+"Rue Cordière",,,,relation
+"Rue Courteline",,,,relation
+"Rue Curie",,,,relation
+"Rue Cuverville",,,,relation
+"Rue Danton",,,,relation
+"Rue Debussy",,,,relation
+"Rue Denis Papin",,,,relation
+"Rue Descartes",,,,relation
+"Rue Docteur Calmette",,,,relation
+"Rue Docteur Eugène Rahuel",,,,relation
+"Rue Duguay Trouin",,,,relation
+"Rue Dumont d'Urville",,,,relation
+"Rue Dupleix",,,,relation
+"Rue Duquesne",,,,relation
+"Rue Edgar Quinet",,,,relation
+"Rue Edmond Rostand",,,,relation
+"Rue Edouard Branly",,,,relation
+"Rue Édouard Manet",,,,relation
+"Rue Édouard Ollivro",,,,relation
+"Rue Elsa Triolet",,,,relation
+"Rue Émile Ernault",,,,relation
+"Rue Émile Littré",,,,relation
+"Rue Émile Masson",,,,relation
+"Rue Émile Souvestre",,,,relation
+"Rue Émile Zola",,,,relation
+"Rue Émile et Sergent Vincent Daubé",,,,relation
+"Rue Eugène Freyssinet",,,,relation
+"Rue Eugène Lemoine",,,,relation
+"Rue Eugène Pottier",,,,relation
+"Rue Eugène Varlin",,,,relation
+"Rue Évariste Galois",,,,relation
+"Rue Fardel",,,,relation
+"Rue Félix Le Dantec",,,,relation
+"Rue Ferdinand Buisson",,,,relation
+"Rue Ferdinand de Lesseps",,,,relation
+"Rue Fernand Léger",,,,relation
+"Rue Flaubert",,,,relation
+"Rue François Ménez",,,,relation
+"Rue François Merlet",,,,relation
+"Rue François Villon",,,,relation
+"Rue Frédéric Le Guyader",,,,relation
+"Rue Frédéric Mistral",,,,relation
+"Rue Fulgence Bienvenüe",,,,relation
+"Rue Gabriel Péri",,,,relation
+"Rue Galilée",,,,relation
+"Rue Gandhi",,,,relation
+"Rue Gauguin",,,,relation
+"Rue Gay Lussac",,,,relation
+"Rue Général Leclerc",,,,relation
+"Rue George Sand",,,,relation
+"Rue Georges Mandel",,,,relation
+"Rue Georges Palante",,,,relation
+"Rue Glenmor",,,,relation
+"Rue Gounod",,,,relation
+"Rue Gradlon",,,,relation
+"Rue Guillaume Apollinaire",,,,relation
+"Rue Gustave Eiffel",,,,relation+way
+"Rue Gustave Flourens",,,,relation
+"Rue Guy Mahé",,,,relation
+"Rue Guy Ropartz",,,,relation
+"Rue Guynemer",,,,relation
+"Rue Haroun Tazieff",,,,relation
+"Rue Henri Avril",,,,relation
+"Rue Henri Barbusse",,,,relation
+"Rue Henri Becquerel",,,,relation
+"Rue Henri Dunant",,,,relation
+"Rue Henri Poincaré",,,,relation
+"Rue Henri Servain",,,,relation
+"Rue Henri Wallon",,,,relation
+"Rue Hervé Pommeret",,,,relation
+"Rue Houvenagle",,,,relation
+"Rue J.H. Rosny",,,,relation
+"Rue Jacqueline Auriol",,,,way
+"Rue Jacques Cartier",,,,relation
+"Rue Jacques Monod",,,,relation
+"Rue Jacques Prévert",,,,relation
+"Rue Jacques-Yves Cousteau",,,,relation
+"Rue Jean Baptiste Clément",,,,relation
+"Rue Jean Baptiste Corot",,,,relation
+"Rue Jean Bart",,,,relation
+"Rue Jean Giraudoux",,,,relation
+"Rue Jean Grenier",,,,relation
+"Rue Jean Guéhénno",,,,relation
+"Rue Jean Jaurès",,,,relation
+"Rue Jean Kuster",,,,relation
+"Rue Jean Le Faucheur",,,,relation
+"Rue Jean Magloire Dorange",,,,relation
+"Rue Jean Mermoz",,,,relation
+"Rue Jean Métairie",,,,relation
+"Rue Jean Mordant",,,,relation
+"Rue Jean Moulin",,,,relation
+"Rue Jean Nicolas",,,,relation
+"Rue Jean Paul Sartre",,,,relation
+"Rue Jean Perrin",,,,relation
+"Rue Jean Richepin",,,,relation
+"Rue Jean Rioche",,,,relation
+"Rue Jean XXIII",,,,relation
+"Rue Jean d'Ormesson",,,,relation
+"Rue Jean-François Deniau",,,,relation
+"Rue Jean-Jacques Rousseau",,,,relation
+"Rue Jean-Louis Hamon",,,,relation
+"Rue Jean-Pierre Calloc'h",,,,relation
+"Rue Jeanne Jugan",,,,relation
+"Rue Jeanne Malivel",,,,relation
+"Rue Jeanne d'Arc",,,,relation
+"Rue Joachim du Bellay",,,,relation
+"Rue Jobert de Lamballe",,,,relation
+"Rue José-Maria de Heredia",,,,relation
+"Rue Joseph le Brix",,,,relation
+"Rue Jouallan",,,,relation
+"Rue Jules Bordet",,,,relation
+"Rue Jules Ferry",,,,relation+way
+"Rue Jules Guesde",,,,relation
+"Rue Jules Lamare",,,,relation
+"Rue Jules Simon",,,,relation
+"Rue Jules Vallès",,,,relation
+"Rue Jules Verne",,,,relation
+"Rue La Bruyère",,,,relation
+"Rue Lafayette",,,,relation+way
+"Rue Lamarck",,,,relation
+"Rue Lamennais",,,,relation
+"Rue Lapicque",,,,relation
+"Rue Lavoisier",,,,relation
+"Rue Le Corbusier",,,,relation
+"Rue Le Verrier",,,,relation
+"Rue Leconte de Lisle",,,,relation
+"Rue Lemonnier",,,,relation
+"Rue Léo Delibes",,,,relation
+"Rue Léo Lagrange",,,,relation
+"Rue Léon Blum",,,,relation
+"Rue Léon Bourgeois",,,,relation
+"Rue Léon Dubreuil",,,,relation
+"Rue Léon Jouhaux",,,,relation
+"Rue Léopold Senghor",,,,relation
+"Rue Lequyer",,,,relation
+"Rue Lesage",,,,relation
+"Rue Lieutenant Édouard Le Mounier",,,,relation
+"Rue Louis Blanc",,,,relation
+"Rue Louis Blériot",,,,relation
+"Rue Louis Braille",,,,relation
+"Rue Louis Hélary",,,,relation
+"Rue Louis Hémon",,,,relation
+"Rue Louis Jouvet",,,,relation
+"Rue Louis Pergaud",,,,relation
+"Rue Louis Tiercelin",,,,relation
+"Rue Louis-Nathaniel Rossel",,,,relation
+"Rue Louise Michel",,,,relation
+"Rue Luzel",,,,relation
+"Rue Magellan",,,,relation
+"Rue Mansart",,,,relation
+"Rue Marc Chagall",,,,relation
+"Rue Marc Sangnier",,,,relation
+"Rue Marcel Cachin",,,,relation
+"Rue Marcel Callo",,,,relation
+"Rue Marcel Pagnol",,,,relation
+"Rue Marcel Paul",,,,relation
+"Rue Marcel Proust",,,,relation
+"Rue Mare au Coq",,,,relation
+"Rue Marie Paule Salonne",,,,relation
+"Rue Marie-Madeleine Dienesch",,,,relation
+"Rue Martin Luther King",,,,relation
+"Rue Massenet",,,,relation
+"Rue Massignon",,,,relation
+"Rue Mathurin Méheut",,,,relation
+"Rue Matisse",,,,relation
+"Rue Maurice Bouladoux",,,,relation
+"Rue Maurice Denis",,,,relation
+"Rue Maurice Noguès",,,,relation
+"Rue Maurice Poge",,,,relation
+"Rue Maurice Thorez",,,,relation
+"Rue Max Jacob",,,,relation
+"Rue Max Le Bail",,,,relation
+"Rue Merleau Ponty",,,,relation
+"Rue Michel Colombe",,,,relation
+"Rue Michelet",,,,relation
+"Rue Mirabeau",,,,relation
+"Rue Mireille Chrisostome",,,,relation
+"Rue Molière",,,,relation
+"Rue Monge",,,,relation
+"Rue Monseigneur Morelle",,,,relation
+"Rue Morgan",,,,relation
+"Rue Morvan Lebesque",,,,relation
+"Rue Mozart",,,,relation
+"Rue Nelson Mandela",,,,relation
+"Rue Niépce",,,,relation
+"Rue Nominoë",,,,relation
+"Rue Octave-Louis Aubert",,,,relation
+"Rue Olympe de Gouges",,,,relation
+"Rue Palasne de Champeaux",,,,relation
+"Rue Parmentier",,,,relation
+"Rue Pasteur",,,,way
+"Rue Pasteur Crespin",,,,relation
+"Rue Paul Cézanne",,,,relation
+"Rue Paul Éluard",,,,relation
+"Rue Paul Féval",,,,relation
+"Rue Paul Langevin",,,,relation
+"Rue Paul Sabatier",,,,relation
+"Rue Paul Valéry",,,,relation
+"Rue Per Jakez Hélias",,,,relation
+"Rue Philibert Delorme",,,,relation
+"Rue Philippe le Bon",,,,relation
+"Rue Pierre Gilles de Gennes",,,,relation
+"Rue Pierre Le Gorrec",,,,relation
+"Rue Pierre Loti",,,,relation
+"Rue Pierre Maître",,,,relation
+"Rue Pierre Ogé",,,,relation
+"Rue Pierre Semard",,,,relation
+"Rue Pierre de Raveton",,,,relation
+"Rue Piet Mondrian",,,,relation
+"Rue Pinot-Duclos",,,,relation
+"Rue Pohel",,,,relation
+"Rue Poilpot",,,,relation
+"Rue Pont Chapet",,,,relation
+"Rue Poulain Corbion",,,,relation
+"Rue Prosper Mérimée",,,,relation
+"Rue Quinquaine",,,,relation
+"Rue Rabelais",,,,relation
+"Rue Racine",,,,relation
+"Rue Raoul Ponchon",,,,relation
+"Rue Ravel",,,,relation
+"Rue Raymond Aron",,,,relation
+"Rue Réaumur",,,,relation
+"Rue Reine Astrid",,,,relation
+"Rue Renan",,,,relation
+"Rue René Cassin",,,,relation
+"Rue René Guy Cadou",,,,relation
+"Rue René Le Roux",,,,relation
+"Rue René-Yves Creston",,,,relation
+"Rue Robert Delaunay",,,,relation
+"Rue Robert Koch",,,,relation
+"Rue Robespierre",,,,relation
+"Rue Roger Nimier",,,,relation
+"Rue Roger Salengro",,,,relation
+"Rue Roger Vercel",,,,relation
+"Rue Romain Gary",,,,relation
+"Rue Romain Rolland",,,,relation
+"Rue Ronsard",,,,relation
+"Rue Rouget de l'Isle",,,,relation
+"Rue Ruffelet",,,,relation
+"Rue Saint-Benoît",,,,relation
+"Rue Saint-Exupéry",,,,relation
+"Rue Saint-François",,,,relation
+"Rue Saint-Gilles",,,,relation
+"Rue Saint-Guillaume",,,,relation
+"Rue Saint-Jacques",,,,relation
+"Rue Saint-Jouan",,,,relation+way
+"Rue Saint-Just",,,,relation
+"Rue Saint-Pierre",,,,relation
+"Rue Saint-Pol Roux",,,,relation
+"Rue Saint-Vincent de Paul",,,,relation
+"Rue Saint-Yves",,,,relation
+"Rue Sainte-Barbe",,,,relation
+"Rue Sarah Bernhardt",,,,relation
+"Rue Sébastien le Balp",,,,relation
+"Rue Sergent Béziers Lafosse",,,,relation
+"Rue Suffren",,,,relation
+"Rue Sully",,,,relation
+"Rue Sully Prudhomme",,,,relation
+"Rue Tanguy Malmanche",,,,relation
+"Rue Tanguy Prigent",,,,relation
+"Rue Théodore Botrel",,,,relation
+"Rue Théodule Ribot",,,,relation
+"Rue Toussaint Louverture",,,,relation
+"Rue Tristan Corbière",,,,relation
+"Rue Turenne",,,,relation
+"Rue Turgot",,,,relation
+"Rue Vicairie",,,,relation
+"Rue Victor Basch",,,,relation
+"Rue Victor Duruy",,,,relation
+"Rue Victor Grignard",,,,relation
+"Rue Victor Hugo",,,,relation
+"Rue Victor Rault",,,,relation
+"Rue Victor Schoelcher",,,,relation
+"Rue Victor Segalen",,,,relation
+"Rue Villiers de L'Isle Adam",,,,relation
+"Rue Viollet Le Duc",,,,relation
+"Rue Voltaire",,,,relation
+"Rue Xavier Grall",,,,relation
+"Rue Yann Sohier",,,,relation
+"Rue Yves Berthou",,,,relation
+"Rue Yves Cabel",,,,relation
+"Rue Yvette Le Quéinec",,,,relation
+"Rue Zamenhof",,,,relation
+"Rue Zénaïde Fleuriot",,,,relation
+"Rue aux Toiles",,,,relation
+"Rue d'Alembert",,,,relation
+"Rue d'Alsace-Lorraine",,,,relation
+"Rue d'Amsterdam",,,,relation
+"Rue d'Anjou",,,,relation
+"Rue d'Aquitaine",,,,relation
+"Rue d'Artois",,,,relation
+"Rue d'Avaugour",,,,relation
+"Rue d'Écosse",,,,relation
+"Rue d'Irlande",,,,relation
+"Rue d'Ouessant",,,,relation
+"Rue de Barcelone",,,,relation
+"Rue de Beaulieu",,,,relation
+"Rue de Berrien",,,,relation
+"Rue de Bien Assis",,,,relation
+"Rue de Bir Hakeim",,,,relation
+"Rue de Bourgogne",,,,relation
+"Rue de Brest",,,,relation
+"Rue de Brocéliande",,,,relation
+"Rue de Cancale",,,,relation
+"Rue de Carfort",,,,relation
+"Rue de Chausey",,,,relation
+"Rue de Cherbourg",,,,relation
+"Rue de Cleuziou",,,,relation
+"Rue de Cornouaille",,,,relation
+"Rue de Dieppe",,,,relation
+"Rue de Douvenant",,,,relation+way
+"Rue de Franche-Comté",,,,relation
+"Rue de Fréhel",,,,relation
+"Rue de Gascogne",,,,relation
+"Rue de Genève",,,,relation
+"Rue de Gernugan",,,,relation
+"Rue de Gouédic",,,,relation+way
+"Rue de Gouët",,,,relation
+"Rue de Gourien",,,,relation
+"Rue de Granville",,,,relation
+"Rue de Guébriant",,,,relation
+"Rue de Guernesey",,,,relation
+"Rue de Jersey",,,,relation
+"Rue de Kerguélen",,,,relation
+"Rue de La Mettrie",,,,relation
+"Rue de La Pérouse",,,,relation
+"Rue de Launivier",,,,way
+"Rue de Liège",,,,relation
+"Rue de Lisbonne",,,,relation
+"Rue de Louisiane",,,,relation
+"Rue de Malaunay",,,,relation
+"Rue de Monte à Regret",,,,relation
+"Rue de Normandie",,,,relation
+"Rue de Paimpont",,,,relation
+"Rue de Paris",,,,relation
+"Rue de Penthièvre",,,,relation
+"Rue de Picardie",,,,relation
+"Rue de Prague",,,,relation
+"Rue de Provence",,,,relation
+"Rue de Quintin",,,,relation
+"Rue de Robien",,,,relation
+"Rue de Rohan",,,,relation
+"Rue de Rohannec'h",,,,relation
+"Rue de Saint-Barthélémy",,,,relation+way
+"Rue de Saint-Hilaire",,,,relation
+"Rue de Saint-Malo",,,,relation
+"Rue de Savoie",,,,relation
+"Rue de Sercq",,,,way
+"Rue de Stalingrad",,,,relation
+"Rue de Touraine",,,,relation
+"Rue de Tréfois",,,,relation
+"Rue de Trégueux",,,,relation
+"Rue de Vendée",,,,relation
+"Rue de Venise",,,,relation
+"Rue de Verdun",,,,relation
+"Rue de Villebonne",,,,way
+"Rue de l'Argoat",,,,relation
+"Rue de l'Astrolabe",,,,relation
+"Rue de l'Avenir",,,,relation
+"Rue de l'Espérance",,,,relation
+"Rue de l'Établette",,,,relation+way
+"Rue de l'Europe",,,,relation
+"Rue de l'Hirondelle",,,,relation
+"Rue de l'Ondine",,,,relation
+"Rue de l'Yser",,,,relation
+"Rue de la Balavoine",,,,relation
+"Rue de la Beauchée",,,,relation
+"Rue de la Caquinerie",,,,relation
+"Rue de la Champagne",,,,relation
+"Rue de la Chartreuse",,,,relation
+"Rue de la Chesnaie",,,,relation
+"Rue de la Concorde",,,,way
+"Rue de la Cordelière",,,,relation
+"Rue de la Corderie",,,,relation
+"Rue de la Corniche",,,,relation
+"Rue de la Côte à Moussu",,,,relation
+"Rue de la Côte aux Marie",,,,relation
+"Rue de la Croix Rouge",,,,relation
+"Rue de la Croix au Chat",,,,relation
+"Rue de la Croix de Santé",,,,way
+"Rue de la Donas",,,,relation
+"Rue de la Fontaine Saint-Brieuc",,,,relation
+"Rue de la Fontaine Sucrée",,,,relation
+"Rue de la Gare",,,,relation
+"Rue de la Grève des Courses",,,,way
+"Rue de la Grille",,,,way
+"Rue de la Hacmorée",,,,relation
+"Rue de la Hunaudaye",,,,relation
+"Rue de la Mardelle",,,,relation
+"Rue de la Micauderie",,,,relation
+"Rue de la Paix",,,,relation
+"Rue de la Plaine Ville",,,,way
+"Rue de la Poissonnerie",,,,relation
+"Rue de la Préfecture",,,,relation
+"Rue de la Prospérité",,,,relation
+"Rue de la République",,,,relation+way
+"Rue de la Roche Gautier",,,,relation
+"Rue de la Roche Jano",,,,relation
+"Rue de la Solidarité",,,,relation
+"Rue de la Tour",,,,relation
+"Rue de la Tullaye",,,,relation
+"Rue de la Ville Audry",,,,relation
+"Rue de la Ville Bastard",,,,relation
+"Rue de la Ville Bernard",,,,relation
+"Rue de la Ville Berno",,,,relation
+"Rue de la Ville Bily",,,,way
+"Rue de la Ville Bougault",,,,relation
+"Rue de la Ville Ernault",,,,relation
+"Rue de la Ville Grohan",,,,way
+"Rue de la Ville Gueury",,,,way
+"Rue de la Ville Guyomard",,,,relation
+"Rue de la Ville Hellio",,,,relation
+"Rue de la Ville Jouyaux",,,,way
+"Rue de la Ville Malante",,,,relation
+"Rue de la Ville d'Ys",,,,relation
+"Rue des Ardennes",,,,relation
+"Rue des Bonnets Rouges",,,,relation
+"Rue des Bouessières",,,,relation
+"Rue des Buttes",,,,way
+"Rue des Cap-Horniers",,,,relation
+"Rue des Capucins",,,,relation
+"Rue des Champs Gibets",,,,relation
+"Rue des Champs au Duc",,,,relation
+"Rue des Champs de Pies",,,,relation
+"Rue des Cheminots",,,,relation
+"Rue des Clôtures",,,,relation
+"Rue des Corsaires",,,,relation
+"Rue des Cruchets",,,,relation
+"Rue des Dauphins",,,,relation
+"Rue des Déportés",,,,relation
+"Rue des Écoles",,,,relation
+"Rue des Embruns",,,,relation
+"Rue des Forges",,,,relation
+"Rue des Francs-Tireurs",,,,relation
+"Rue des Fusillés",,,,relation
+"Rue des Galets",,,,relation
+"Rue des Gallois",,,,relation
+"Rue des Hillionnais",,,,relation
+"Rue des Islandais",,,,relation
+"Rue des Landes",,,,way
+"Rue des Ligneries",,,,relation
+"Rue des Lycéens Martyrs",,,,relation
+"Rue des Marsouins",,,,relation
+"Rue des Merles",,,,relation
+"Rue des Minquiers",,,,way
+"Rue des Perrières",,,,relation
+"Rue des Promenades",,,,relation
+"Rue des Roches Douvres",,,,relation
+"Rue des Sentes",,,,relation
+"Rue des Terres Neuvas",,,,relation
+"Rue des Trois Frères Le Goff",,,,relation
+"Rue des Trois Frères Merlin",,,,relation
+"Rue des Trois Frères Poutrin",,,,relation
+"Rue des Tuileries",,,,way
+"Rue des deux Frères Royer",,,,relation
+"Rue du 19 Mars 1962",,,,relation
+"Rue du 71ème Régiment d'Infanterie",,,,relation
+"Rue du Béarn",,,,relation
+"Rue du Berry",,,,relation
+"Rue du Bourg Vasé",,,,relation
+"Rue du Champ des Nues",,,,relation
+"Rue du Chapitre",,,,relation
+"Rue du Château Bily",,,,way
+"Rue du Chef de Ville",,,,relation
+"Rue du Clos Louis",,,,relation
+"Rue du Clos de l'Aire",,,,relation
+"Rue du Clos de la Fontaine",,,,relation
+"Rue du Clos de la Grange",,,,relation
+"Rue du Clos des Courlis",,,,relation
+"Rue du Clos des Sternes",,,,relation
+"Rue du Colombier",,,,relation
+"Rue du Colonel Fabien",,,,relation
+"Rue du Combat des Trente",,,,relation
+"Rue du Commandant L'Herminier",,,,relation
+"Rue du Commandant Le Conniat",,,,relation
+"Rue du Commandant d'Estienne d'Orves",,,,relation
+"Rue du Coucou",,,,relation
+"Rue du Docteur Charcot",,,,relation
+"Rue du Docteur Lamaze",,,,relation
+"Rue du Docteur Rochard",,,,relation
+"Rue du Douanier Tass",,,,relation
+"Rue du Goëlo",,,,relation
+"Rue du Gouty",,,,relation
+"Rue du Grand Clos",,,,relation
+"Rue du Grand Léjon",,,,relation
+"Rue du Jura",,,,relation
+"Rue du Languedoc",,,,relation
+"Rue du Légué",,,,relation
+"Rue du Léon",,,,relation
+"Rue du Limousin",,,,relation
+"Rue du Maréchal Foch",,,,relation
+"Rue du Moulin Rouxel",,,,relation
+"Rue du Moulin à Papier",,,,relation
+"Rue du Moulin de Persas",,,,relation
+"Rue du Parc",,,,relation
+"Rue du Périgord",,,,relation
+"Rue du Petit Clos",,,,relation
+"Rue du Poitou",,,,relation
+"Rue du Port",,,,relation
+"Rue du Port Favigo",,,,relation
+"Rue du Pré",,,,way
+"Rue du Pré Auren",,,,relation
+"Rue du Pré Chesnay",,,,relation
+"Rue du Pré Saint-Léger",,,,relation
+"Rue du Québec",,,,relation
+"Rue du Roussillon",,,,relation
+"Rue du Sergent Le Mée",,,,relation
+"Rue du Souvenir Français",,,,relation
+"Rue du Tertre Aubé",,,,way
+"Rue du Tertre Cotin",,,,relation
+"Rue du Tertre Marie Dondaine",,,,relation
+"Rue du Tertre aux Lièvres",,,,relation
+"Rue du Trégor",,,,relation
+"Rue du Valais",,,,relation+way
+"Rue du Vau Gicquel",,,,relation
+"Rue du Vau Louis",,,,relation
+"Rue du Vau Méno",,,,relation
+"Rue du Vercors",,,,relation
+"Rue du Vieil Étang",,,,relation
+"Rue du Vieux Puits",,,,relation
+"Rue du Vieux Séminaire",,,,relation
+"Rue le Floch",,,,relation
+"Sarah Bernhardt",,,,way
+"Sentier de la rivière",,,,way
+"Square Alfred Millet",,,,way
+"Square Toussaint Louverture",,,,relation
+"Square de l'Armée Patton",,,,way
+"Square de la Palestine",,,,way
+"Venelle de Gouédic",,,,relation
+"Venelle des Champs Lorin",,,,relation
+"Viaduc de Douvenant",,,,way
+"Viaduc de Toupin",,,,way
+"Viaduc du Gouédic",,,,way
+"Viaduc du Gouët",,,,way
+"Vieille Côte de Gouët",,,,relation
+"Voie de la Région Bretagne",,,,relation
+"accès à la passerelle de l'écluse",,,,way
+"chemin Moulin Persas",,,,way
+"coulée verte",,,,way
+"coulée verte vallée de gouédic",,,,way
+"franchissement passerelle nord de l'écluse",,,,way
