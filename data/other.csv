@@ -1,4 +1,47 @@
 name,source,gender,wikidata,type
+"Allée d'Île de France",wikidata,,Q13917,way
+"Allée de Molène",wikidata,,Q3319697,way
+"Allée de la Plaine",wikidata,,Q160091,way
+"Allée des Sirènes",wikidata,,Q182559,way
+"Boulevard de l'Atlantique",wikidata,,Q97,relation
+"Chemin de L'Écluse",wikidata,,Q105731,way
+"Chemin des Eaux Minérales",wikidata,,Q178921,relation+way
+"Esplanade des Prix Nobel",wikidata,,Q7191,relation
+"Esplanade du Petit Prince",wikidata,,Q25338,way
+"Mail de L'Europe",wikidata,,Q46,way
+"Place d'Alsdorf",wikidata,,Q6992,relation+way
+"Place de Normandie",wikidata,,Q15878;Q18677875,relation+way
+"Place de l'Hermine",wikidata,,Q384324,way
+"Place de la Liberté",wikidata,,Q2979,relation+way
+"Place des Droits de l'Homme",wikidata,,Q169759;Q7813,way
+"Place du 74e Régiment d'Infanterie Territoriale",wikidata,,Q2818265,relation+way
+"Place du Luxembourg",wikidata,,Q32,relation+way
+"Place du Roi Arthur",wikidata,,Q45792,relation+way
+"Place du Savonnier",wikidata,,Q267027,way
+"Rond-Point Aberystwyth",wikidata,,Q213154,way
+"Rond-Point Agadez",wikidata,,Q320049,way
+"Rond-Point d'Iroise",wikidata,,Q208962,way
+"Rond-Point de Gabès",wikidata,,Q215661,way
+"Rond-Point de la Corderie",wikidata,,Q41085665,way
+"Rond-Point de la Croix Mathias",wikidata,,Q22925331,way
+"Rond-Point de la Fontaine",wikidata,,Q483453,way
+"Rond-Point des Familles",wikidata,,Q3550343,way
+"Rond-Point des Gallois",wikidata,,Q188353,way
+"Rond-Point du 19 Mars 1962",wikidata,,Q101251244,way
+"Rond-Point du Camp de Rawa-Ruska",wikidata,,Q16720963,way
+"Rue J.H. Rosny",wikidata,,Q2570161,relation
+"Rue de Genève",wikidata,,Q71,relation
+"Rue de Gouédic",wikidata,,Q95588011,relation+way
+"Rue de Jersey",wikidata,,Q15706498,relation
+"Rue de Paris",wikidata,,Q90,relation
+"Rue de Trégueux",wikidata,,Q476687,relation
+"Rue de la République",wikidata,,Q17152708,relation+way
+"Rue des Minquiers",wikidata,,Q1435852,way
+"Rue du 71ème Régiment d'Infanterie",wikidata,,Q2818235,relation
+"Rue du Légué",wikidata,,Q3270301,relation
+"Rue du Tertre Aubé",wikidata,,Q59343241,way
+"Square de l'Armée Patton",wikidata,,Q186492;Q223548,way
+"Square de la Palestine",wikidata,,Q23792,way
 "Allée Boileau",,,,way
 "Allée Chaptal",,,,relation
 "Allée Diderot",,,,relation
@@ -10,18 +53,14 @@ name,source,gender,wikidata,type
 "Allée Le Nôtre",,,,relation
 "Allée Marie Le Vaillant",,,,relation
 "Allée Pierre Petit",,,,relation
-"Allée d'Île de France",,,,way
 "Allée de Batz",,,,relation
 "Allée de Beauvallon",,,,relation
 "Allée de Bréhat",,,,relation
-"Allée de Molène",,,,way
 "Allée de Sein",,,,relation
-"Allée de la Plaine",,,,way
 "Allée des Albatros",,,,relation
 "Allée des Frégates",,,,relation
 "Allée des Goëlands",,,,relation
 "Allée des Mouettes",,,,relation
-"Allée des Sirènes",,,,way
 "Allée du Champ de Mars",,,,way
 "Allée du Marché",,,,relation
 "Allée du Tertre Boissel",,,,relation
@@ -56,7 +95,6 @@ name,source,gender,wikidata,type
 "Boulevard Sévigné",,,,relation
 "Boulevard Vauban",,,,relation
 "Boulevard de Plélo",,,,relation
-"Boulevard de l'Atlantique",,,,relation
 "Boulevard de la Chalotais",,,,way
 "Boulevard de la Commune",,,,relation
 "Boulevard de la Manche",,,,relation
@@ -64,7 +102,6 @@ name,source,gender,wikidata,type
 "Boulevard de la Tour d'Auvergne",,,,relation
 "Boulevard de la Ville Jouha",,,,relation
 "Chemin de Belle Isle",,,,relation
-"Chemin de L'Écluse",,,,way
 "Chemin de la Gravelouse",,,,relation
 "Chemin de la Planche",,,,way
 "Chemin de la Porette",,,,relation
@@ -73,7 +110,6 @@ name,source,gender,wikidata,type
 "Chemin de la Ville Neuve",,,,relation
 "Chemin de la Ville Oger",,,,relation
 "Chemin des Courses",,,,relation
-"Chemin des Eaux Minérales",,,,relation+way
 "Chemin des Nouettes",,,,way
 "Chemin du Bas du Bois",,,,way
 "Chemin du Gué Gohel",,,,way
@@ -92,8 +128,6 @@ name,source,gender,wikidata,type
 "Esplanade Jacques Chirac",,,,way
 "Esplanade Professeur Jean Bernard",,,,way
 "Esplanade Raoul Poupard",,,,way
-"Esplanade des Prix Nobel",,,,relation
-"Esplanade du Petit Prince",,,,way
 "Impasse Alfred Kastler",,,,relation
 "Impasse Antoine Bourdelle",,,,relation
 "Impasse Coëtlogon",,,,relation
@@ -109,7 +143,6 @@ name,source,gender,wikidata,type
 "Impasse de la Ville Gueury",,,,relation
 "Impasse du Champ des Nues",,,,relation
 "Impasse du Pré Tizon",,,,relation
-"Mail de L'Europe",,,,way
 "Passage Georges Brassens",,,,way
 "Passage Jean-Baptiste Illio",,,,relation
 "Passage Max Le Bail",,,,relation
@@ -130,51 +163,31 @@ name,source,gender,wikidata,type
 "Place Saint-Michel",,,,relation
 "Place Sainte-Thérèse",,,,relation
 "Place au Lin",,,,relation
-"Place d'Alsdorf",,,,relation+way
-"Place de Normandie",,,,relation+way
-"Place de l'Hermine",,,,way
 "Place de la Cité",,,,relation+way
 "Place de la Fontaine Saint-Ignace",,,,relation
 "Place de la Grille",,,,way
-"Place de la Liberté",,,,relation+way
 "Place de la Madeleine",,,,way
 "Place de la Résistance",,,,relation
-"Place des Droits de l'Homme",,,,way
-"Place du 74e Régiment d'Infanterie Territoriale",,,,relation+way
 "Place du 8 Mai 1945",,,,way
 "Place du Chai",,,,relation
-"Place du Luxembourg",,,,relation+way
 "Place du Marché",,,,way
 "Place du Martray",,,,relation
 "Place du Perroquet Vert",,,,way
 "Place du Puits Chevalier",,,,way
 "Place du Puits au Lait",,,,relation
-"Place du Roi Arthur",,,,relation+way
-"Place du Savonnier",,,,way
 "Pont Balzac",,,,way
 "Pont de Pierre",,,,way
 "Quai Armez",,,,relation
 "Quai Surcouf",,,,relation
 "Rampe des Forges",,,,relation
-"Rond-Point Aberystwyth",,,,way
-"Rond-Point Agadez",,,,way
 "Rond-Point Alfred de Musset",,,,relation
 "Rond-Point Palasne de Champeaux",,,,way
 "Rond-Point d'Aghia Paraskevi",,,,relation
-"Rond-Point d'Iroise",,,,way
-"Rond-Point de Gabès",,,,way
 "Rond-Point de l'Ancien Vélodrome",,,,way
 "Rond-Point de l'Aurore",,,,relation
-"Rond-Point de la Corderie",,,,way
-"Rond-Point de la Croix Mathias",,,,way
-"Rond-Point de la Fontaine",,,,way
 "Rond-Point de la Ville Hellio",,,,way
 "Rond-Point de la Ville Jouha",,,,way
 "Rond-Point de la Ville Oger",,,,way
-"Rond-Point des Familles",,,,way
-"Rond-Point des Gallois",,,,way
-"Rond-Point du 19 Mars 1962",,,,way
-"Rond-Point du Camp de Rawa-Ruska",,,,way
 "Rond-Point du Lieutenant Huguin",,,,way
 "Rond-Point du Pont de Pierre",,,,way
 "Rue Abbé Duchesne",,,,relation
@@ -342,7 +355,6 @@ name,source,gender,wikidata,type
 "Rue Henri Wallon",,,,relation
 "Rue Hervé Pommeret",,,,relation
 "Rue Houvenagle",,,,relation
-"Rue J.H. Rosny",,,,relation
 "Rue Jacqueline Auriol",,,,way
 "Rue Jacques Cartier",,,,relation
 "Rue Jacques Monod",,,,relation
@@ -585,15 +597,12 @@ name,source,gender,wikidata,type
 "Rue de Franche-Comté",,,,relation
 "Rue de Fréhel",,,,relation
 "Rue de Gascogne",,,,relation
-"Rue de Genève",,,,relation
 "Rue de Gernugan",,,,relation
-"Rue de Gouédic",,,,relation+way
 "Rue de Gouët",,,,relation
 "Rue de Gourien",,,,relation
 "Rue de Granville",,,,relation
 "Rue de Guébriant",,,,relation
 "Rue de Guernesey",,,,relation
-"Rue de Jersey",,,,relation
 "Rue de Kerguélen",,,,relation
 "Rue de La Mettrie",,,,relation
 "Rue de La Pérouse",,,,relation
@@ -605,7 +614,6 @@ name,source,gender,wikidata,type
 "Rue de Monte à Regret",,,,relation
 "Rue de Normandie",,,,relation
 "Rue de Paimpont",,,,relation
-"Rue de Paris",,,,relation
 "Rue de Penthièvre",,,,relation
 "Rue de Picardie",,,,relation
 "Rue de Prague",,,,relation
@@ -622,7 +630,6 @@ name,source,gender,wikidata,type
 "Rue de Stalingrad",,,,relation
 "Rue de Touraine",,,,relation
 "Rue de Tréfois",,,,relation
-"Rue de Trégueux",,,,relation
 "Rue de Vendée",,,,relation
 "Rue de Venise",,,,relation
 "Rue de Verdun",,,,relation
@@ -666,7 +673,6 @@ name,source,gender,wikidata,type
 "Rue de la Poissonnerie",,,,relation
 "Rue de la Préfecture",,,,relation
 "Rue de la Prospérité",,,,relation
-"Rue de la République",,,,relation+way
 "Rue de la Roche Gautier",,,,relation
 "Rue de la Roche Jano",,,,relation
 "Rue de la Solidarité",,,,relation
@@ -715,7 +721,6 @@ name,source,gender,wikidata,type
 "Rue des Lycéens Martyrs",,,,relation
 "Rue des Marsouins",,,,relation
 "Rue des Merles",,,,relation
-"Rue des Minquiers",,,,way
 "Rue des Perrières",,,,relation
 "Rue des Promenades",,,,relation
 "Rue des Roches Douvres",,,,relation
@@ -727,7 +732,6 @@ name,source,gender,wikidata,type
 "Rue des Tuileries",,,,way
 "Rue des deux Frères Royer",,,,relation
 "Rue du 19 Mars 1962",,,,relation
-"Rue du 71ème Régiment d'Infanterie",,,,relation
 "Rue du Béarn",,,,relation
 "Rue du Berry",,,,relation
 "Rue du Bourg Vasé",,,,relation
@@ -758,7 +762,6 @@ name,source,gender,wikidata,type
 "Rue du Grand Léjon",,,,relation
 "Rue du Jura",,,,relation
 "Rue du Languedoc",,,,relation
-"Rue du Légué",,,,relation
 "Rue du Léon",,,,relation
 "Rue du Limousin",,,,relation
 "Rue du Maréchal Foch",,,,relation
@@ -779,7 +782,6 @@ name,source,gender,wikidata,type
 "Rue du Roussillon",,,,relation
 "Rue du Sergent Le Mée",,,,relation
 "Rue du Souvenir Français",,,,relation
-"Rue du Tertre Aubé",,,,way
 "Rue du Tertre Cotin",,,,relation
 "Rue du Tertre Marie Dondaine",,,,relation
 "Rue du Tertre aux Lièvres",,,,relation
@@ -797,8 +799,6 @@ name,source,gender,wikidata,type
 "Sentier de la rivière",,,,way
 "Square Alfred Millet",,,,way
 "Square Toussaint Louverture",,,,relation
-"Square de l'Armée Patton",,,,way
-"Square de la Palestine",,,,way
 "Venelle de Gouédic",,,,relation
 "Venelle des Champs Lorin",,,,relation
 "Viaduc de Douvenant",,,,way
