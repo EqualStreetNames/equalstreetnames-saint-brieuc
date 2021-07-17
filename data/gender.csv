@@ -18,6 +18,7 @@ name,source,gender,wikidata,type
 "Cour Francis Renaud",wikidata,M,Q2385890,way
 "Esplanade Alain Mimoun",wikidata,M,Q435068,way
 "Esplanade Alfred Jarry",wikidata,M,Q7841,way
+"Esplanade Jacques Chirac",wikidata,M,Q2105,way
 "Esplanade Patrick Dewaere",wikidata,M,Q551439,way
 "Passage Paul Langevin",wikidata,M,Q25320,way
 "Place Alexandre Glais-Bizoin",wikidata,M,Q332320,relation+way
@@ -55,3 +56,4 @@ name,source,gender,wikidata,type
 "Square Edmond Michelet",wikidata,M,Q871444,way
 "Square Jean Monnet",wikidata,M,Q159700,way
 "Venelle Achille du Clézieux",wikidata,M,Q16525196,way
+"Venelle Saint-Brieuc",wikidata,M,Q2476943,way
