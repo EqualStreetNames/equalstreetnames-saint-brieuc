@@ -142,6 +142,7 @@ name,source,gender,wikidata,type
 "Impasse de la Ville Gueury",,,,relation
 "Impasse du Champ des Nues",,,,relation
 "Impasse du Pré Tizon",,,,relation
+"Le Hentig Glas",,,,way
 "Passage Georges Brassens",,,,way
 "Passage Jean-Baptiste Illio",,,,relation
 "Passage Max Le Bail",,,,relation
@@ -810,5 +811,7 @@ name,source,gender,wikidata,type
 "coulée verte",,,,way
 "coulée verte vallée de gouédic",,,,way
 "franchissement passerelle nord de l'écluse",,,,way
+"rond point Joëlle Aubrée",,,,way
+"rond-pointde la Croix Perron",,,,way
 "rue du Moulin Persas",,,,way
 "rue du moulin de Persas",,,,way
