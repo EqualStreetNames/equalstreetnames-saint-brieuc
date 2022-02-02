@@ -4,7 +4,7 @@ name,source,gender,wikidata,type
 "Allée de la Plaine",wikidata,,Q160091,way
 "Allée des Sirènes",wikidata,,Q182559,way
 "Boulevard de l'Atlantique",wikidata,,Q97,relation
-"Chemin de L'Écluse",wikidata,,Q105731,way
+"Chemin de l'Écluse",wikidata,,Q105731,way
 "Chemin des Eaux Minérales",wikidata,,Q178921,relation+way
 "Esplanade des Prix Nobel",wikidata,,Q7191,relation
 "Esplanade du Petit Prince",wikidata,,Q25338,way
@@ -101,6 +101,7 @@ name,source,gender,wikidata,type
 "Boulevard de la Mer",,,,relation
 "Boulevard de la Tour d'Auvergne",,,,relation
 "Boulevard de la Ville Jouha",,,,relation
+"Chemin Moulin Persas",,,,way
 "Chemin de Belle Isle",,,,relation
 "Chemin de la Gravelouse",,,,relation
 "Chemin de la Planche",,,,way
@@ -134,7 +135,7 @@ name,source,gender,wikidata,type
 "Impasse James Bouillé",,,,relation
 "Impasse Morgan",,,,relation
 "Impasse Quinquaine",,,,relation
-"Impasse Saint Simon",,,,relation
+"Impasse Saint-Simon",,,,relation
 "Impasse Thiers",,,,relation
 "Impasse de la Sensive",,,,way
 "Impasse de la Ville Berno",,,,relation
@@ -766,6 +767,7 @@ name,source,gender,wikidata,type
 "Rue du Léon",,,,relation
 "Rue du Limousin",,,,relation
 "Rue du Maréchal Foch",,,,relation
+"Rue du Moulin Persas",,,,way
 "Rue du Moulin Rouxel",,,,relation
 "Rue du Moulin à Papier",,,,relation
 "Rue du Moulin de Persas",,,,relation
@@ -795,6 +797,7 @@ name,source,gender,wikidata,type
 "Rue du Vieil Étang",,,,relation
 "Rue du Vieux Puits",,,,relation
 "Rue du Vieux Séminaire",,,,relation
+"Rue du moulin de Persas",,,,way
 "Rue le Floch",,,,relation
 "Sarah Bernhardt",,,,way
 "Sentier de la rivière",,,,way
@@ -809,11 +812,8 @@ name,source,gender,wikidata,type
 "Vieille Côte de Gouët",,,,relation
 "Voie de la Région Bretagne",,,,relation
 "accès à la passerelle de l'écluse",,,,way
-"chemin Moulin Persas",,,,way
 "coulée verte",,,,way
 "coulée verte vallée de gouédic",,,,way
 "franchissement passerelle nord de l'écluse",,,,way
 "rond point Joëlle Aubrée",,,,way
 "rond-pointde la Croix Perron",,,,way
-"rue du Moulin Persas",,,,way
-"rue du moulin de Persas",,,,way
