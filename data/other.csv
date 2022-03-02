@@ -183,10 +183,12 @@ name,source,gender,wikidata,type
 "Quay Surcouf",,,,way
 "Rampe des Forges",,,,relation
 "Rond-Point Alfred de Musset",,,,relation
+"Rond-Point Joëlle Aubrée",,,,way
 "Rond-Point Palasne de Champeaux",,,,way
 "Rond-Point d'Aghia Paraskevi",,,,relation
 "Rond-Point de l'Ancien Vélodrome",,,,way
 "Rond-Point de l'Aurore",,,,relation
+"Rond-Point de la Croix Perron",,,,way
 "Rond-Point de la Ville Hellio",,,,way
 "Rond-Point de la Ville Jouha",,,,way
 "Rond-Point de la Ville Oger",,,,way
@@ -750,9 +752,9 @@ name,source,gender,wikidata,type
 "Rue du Colombier",,,,relation
 "Rue du Colonel Fabien",,,,relation
 "Rue du Combat des Trente",,,,relation
-"Rue du Commandant L'Herminier",,,,relation
 "Rue du Commandant Le Conniat",,,,relation
 "Rue du Commandant d'Estienne d'Orves",,,,relation
+"Rue du Commandant l'Herminier",,,,relation
 "Rue du Coucou",,,,relation
 "Rue du Docteur Charcot",,,,relation
 "Rue du Docteur Lamaze",,,,relation
@@ -770,7 +772,7 @@ name,source,gender,wikidata,type
 "Rue du Moulin Persas",,,,way
 "Rue du Moulin Rouxel",,,,relation
 "Rue du Moulin à Papier",,,,relation
-"Rue du Moulin de Persas",,,,relation
+"Rue du Moulin de Persas",,,,relation+way
 "Rue du Parc",,,,relation
 "Rue du Périgord",,,,relation
 "Rue du Petit Clos",,,,relation
@@ -797,9 +799,9 @@ name,source,gender,wikidata,type
 "Rue du Vieil Étang",,,,relation
 "Rue du Vieux Puits",,,,relation
 "Rue du Vieux Séminaire",,,,relation
-"Rue du moulin de Persas",,,,way
 "Rue le Floch",,,,relation
 "Sarah Bernhardt",,,,way
+"Sentier de la Rivière",,,,way
 "Sentier de la rivière",,,,way
 "Square Alfred Millet",,,,way
 "Square Toussaint Louverture",,,,relation
@@ -815,5 +817,3 @@ name,source,gender,wikidata,type
 "coulée verte",,,,way
 "coulée verte vallée de gouédic",,,,way
 "franchissement passerelle nord de l'écluse",,,,way
-"rond point Joëlle Aubrée",,,,way
-"rond-pointde la Croix Perron",,,,way
