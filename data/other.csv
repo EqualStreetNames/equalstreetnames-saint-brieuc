@@ -1,5 +1,5 @@
 name,source,gender,wikidata,type
-"Allée d'Île de France",wikidata,,Q13917,way
+"Allée d'Île-de-France",wikidata,,Q13917,way
 "Allée de Molène",wikidata,,Q3319697,way
 "Allée de la Plaine",wikidata,,Q160091,way
 "Allée des Sirènes",wikidata,,Q182559,way
@@ -121,6 +121,7 @@ name,source,gender,wikidata,type
 "Cité Gourien",,,,relation
 "Côte Vendel",,,,relation+way
 "Côte de la Pêcherie",,,,relation
+"Coulée verte",,,,way
 "Cour Saint-Gouéno",,,,relation
 "Cours Saint-Gouéno",,,,way
 "Escalier Alfred de Musset",,,,relation
@@ -496,6 +497,7 @@ name,source,gender,wikidata,type
 "Rue Pierre Semard",,,,relation
 "Rue Pierre de Raveton",,,,relation
 "Rue Piet Mondrian",,,,relation
+"Rue Pinot Duclos",,,,way
 "Rue Pinot-Duclos",,,,relation
 "Rue Pohel",,,,relation
 "Rue Poilpot",,,,relation
@@ -814,6 +816,5 @@ name,source,gender,wikidata,type
 "Vieille Côte de Gouët",,,,relation
 "Voie de la Région Bretagne",,,,relation
 "accès à la passerelle de l'écluse",,,,way
-"coulée verte",,,,way
 "coulée verte vallée de gouédic",,,,way
 "franchissement passerelle nord de l'écluse",,,,way
