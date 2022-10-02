@@ -139,12 +139,14 @@ name,source,gender,wikidata,type
 "Impasse Saint-Simon",,,,relation
 "Impasse Thiers",,,,relation
 "Impasse de la Sensive",,,,way
+"Impasse de la Vallée",,,,way
 "Impasse de la Ville Berno",,,,relation
 "Impasse de la Ville Drollée",,,,relation
 "Impasse de la Ville Gueury",,,,relation
 "Impasse du Champ des Nues",,,,relation
 "Impasse du Pré Tizon",,,,relation
 "Le Hentig Glas",,,,way
+"Le Henting Glas",,,,way
 "Passage Georges Brassens",,,,way
 "Passage Jean-Baptiste Illio",,,,relation
 "Passage Max Le Bail",,,,relation
@@ -193,6 +195,7 @@ name,source,gender,wikidata,type
 "Rond-Point de la Ville Hellio",,,,way
 "Rond-Point de la Ville Jouha",,,,way
 "Rond-Point de la Ville Oger",,,,way
+"Rond-Point des Tuileries",,,,way
 "Rond-Point du Lieutenant Huguin",,,,way
 "Rond-Point du Pont de Pierre",,,,way
 "Rue Abbé Duchesne",,,,relation
@@ -809,7 +812,6 @@ name,source,gender,wikidata,type
 "Square Toussaint Louverture",,,,relation
 "Venelle de Gouédic",,,,relation
 "Venelle des Champs Lorin",,,,relation
-"Viaduc de Douvenant",,,,way
 "Viaduc de Toupin",,,,way
 "Viaduc du Gouédic",,,,way
 "Viaduc du Gouët",,,,way
