@@ -6,7 +6,7 @@ name,source,gender,wikidata,type
 "Boulevard de l'Atlantique",wikidata,,Q97,relation
 "Chemin de l'Écluse",wikidata,,Q105731,way
 "Chemin des Eaux Minérales",wikidata,,Q178921,relation+way
-"Esplanade des Prix Nobel",wikidata,,Q7191,relation
+"Esplanade des Prix Nobel",wikidata,,Q7191,relation+way
 "Esplanade du Petit Prince",wikidata,,Q25338,way
 "Mail de L'Europe",wikidata,,Q46,way
 "Place d'Alsdorf",wikidata,,Q6992,relation+way
