@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Avenue du Tertre Notre-Dame",wikidata,F,Q345,relation
 "Place Anna Politkovskaïa",wikidata,F,Q131240,way
 "Place Nina Simone",wikidata,F,Q174957,way
+"Rue Germaine Tillion",wikidata,F,Q271991,way
 "Rue Notre-Dame",wikidata,F,Q345,relation
 "Allée Bourvil",wikidata,M,Q2750,way
 "Allée Fernandel",wikidata,M,Q129092,way
@@ -39,7 +40,6 @@ name,source,gender,wikidata,type
 "Rue Élisée Reclus",wikidata,M,Q20951,relation
 "Rue Gaston Ramon",wikidata,M,Q673325,relation+way
 "Rue Georges Charpak",wikidata,M,Q153178,way
-"Rue Germaine Tillion",wikidata,M,Q271991,way
 "Rue Gustave Eiffel",wikidata,M,Q20882,relation+way
 "Rue Guy de Maupassant",wikidata,M,Q9327,way
 "Rue Jean Coquelin",wikidata,M,Q100152257,relation
