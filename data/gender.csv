@@ -18,7 +18,7 @@ name,source,gender,wikidata,type
 "Cour Francis Renaud",wikidata,M,Q2385890,way
 "Esplanade Alain Mimoun",wikidata,M,Q435068,way
 "Esplanade Alfred Jarry",wikidata,M,Q7841,way
-"Esplanade Jacques Chirac",wikidata,M,Q2105,way
+"Esplanade Jacques Chirac",wikidata,M,Q2105,relation+way
 "Esplanade Patrick Dewaere",wikidata,M,Q551439,way
 "Passage Paul Langevin",wikidata,M,Q25320,way
 "Place Alexandre Glais-Bizoin",wikidata,M,Q332320,relation+way
