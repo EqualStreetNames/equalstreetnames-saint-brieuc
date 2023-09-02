@@ -125,7 +125,6 @@ name,source,gender,wikidata,type
 "Cour Saint-Gouéno",,,,relation
 "Cours Saint-Gouéno",,,,way
 "Escalier Alfred de Musset",,,,relation
-"Esplanade Georges Pompidou",,,,way
 "Esplanade Professeur Jean Bernard",,,,way
 "Esplanade Raoul Poupard",,,,way
 "Impasse Alfred Kastler",,,,relation
@@ -241,7 +240,7 @@ name,source,gender,wikidata,type
 "Rue Auguste Rodin",,,,relation
 "Rue Bachelard",,,,relation
 "Rue Bagot",,,,relation
-"Rue Balzac",,,,relation
+"Rue Balzac",,,,relation+way
 "Rue Baratoux",,,,relation
 "Rue Barde Abhervé",,,,relation
 "Rue Baudelaire",,,,relation
