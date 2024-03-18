@@ -35,6 +35,7 @@ name,source,gender,wikidata,type
 "Rue de Jersey",wikidata,,Q15706498,relation
 "Rue de Paris",wikidata,,Q90,relation
 "Rue de Trégueux",wikidata,,Q476687,relation
+"Rue de la Fontaine Saint-Brieuc",wikidata,,Q22925332,relation
 "Rue de la République",wikidata,,Q17152708,relation+way
 "Rue des Minquiers",wikidata,,Q1435852,way
 "Rue du 71ème Régiment d'Infanterie",wikidata,,Q2818235,relation
@@ -666,7 +667,6 @@ name,source,gender,wikidata,type
 "Rue de la Croix au Chat",,,,relation
 "Rue de la Croix de Santé",,,,way
 "Rue de la Donas",,,,relation
-"Rue de la Fontaine Saint-Brieuc",,,,relation
 "Rue de la Fontaine Sucrée",,,,relation
 "Rue de la Gare",,,,relation
 "Rue de la Grève des Courses",,,,way
@@ -699,6 +699,7 @@ name,source,gender,wikidata,type
 "Rue de la Ville Jouyaux",,,,way
 "Rue de la Ville Malante",,,,relation
 "Rue de la Ville d'Ys",,,,relation
+"Rue de la corniche",,,,way
 "Rue des Ardennes",,,,relation
 "Rue des Bonnets Rouges",,,,relation
 "Rue des Bouessières",,,,relation
