@@ -47,6 +47,7 @@ name,source,gender,wikidata,type
 "Rue Jean Devienne",wikidata,M,Q106368817,relation
 "Rue Kléber",wikidata,M,Q319302,relation+way
 "Rue Montesquieu",wikidata,M,Q15975,relation
+"Rue Pasteur",wikidata,M,Q529,way
 "Rue Paul Bert",wikidata,M,Q735370,relation
 "Rue Paul Le Flem",wikidata,M,Q964256,way
 "Rue Pavlov",wikidata,M,Q42985,way
