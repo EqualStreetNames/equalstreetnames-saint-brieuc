@@ -41,7 +41,6 @@ name,source,gender,wikidata,type
 "Rue du 71ème Régiment d'Infanterie",wikidata,,Q2818235,relation
 "Rue du Légué",wikidata,,Q3270301,relation
 "Rue du Tertre Aubé",wikidata,,Q59343241,way
-"Square de l'Armée Patton",wikidata,,Q186492;Q223548,way
 "Square de la Palestine",wikidata,,Q23792,way
 "Allée Boileau",,,,way
 "Allée Chaptal",,,,relation
@@ -81,7 +80,7 @@ name,source,gender,wikidata,type
 "Avenue du Cotentin",,,,relation
 "Avenue du Havre",,,,relation
 "Boulevard Arago",,,,relation
-"Boulevard Carnot",,,,relation
+"Boulevard Carnot",,,,relation+way
 "Boulevard Charner",,,,relation
 "Boulevard Clemenceau",,,,relation
 "Boulevard Édouard Herriot",,,,relation
@@ -173,7 +172,7 @@ name,source,gender,wikidata,type
 "Place de la Madeleine",,,,way
 "Place de la Résistance",,,,relation
 "Place du 8 Mai 1945",,,,way
-"Place du Chai",,,,relation
+"Place du Chai",,,,relation+way
 "Place du Marché",,,,way
 "Place du Martray",,,,relation
 "Place du Perroquet Vert",,,,way
@@ -497,7 +496,7 @@ name,source,gender,wikidata,type
 "Rue Pierre Loti",,,,relation
 "Rue Pierre Maître",,,,relation
 "Rue Pierre Ogé",,,,relation
-"Rue Pierre Semard",,,,relation
+"Rue Pierre Semard",,,,relation+way
 "Rue Pierre de Raveton",,,,relation
 "Rue Piet Mondrian",,,,relation
 "Rue Pinot Duclos",,,,way
