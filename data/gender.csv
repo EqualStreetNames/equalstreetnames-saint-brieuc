@@ -2,7 +2,6 @@ name,source,gender,wikidata,type
 "Rue Frédéric et Irène Joliot-Curie",wikidata,+,Q150989;Q7504,relation
 "Avenue du Tertre Notre-Dame",wikidata,F,Q345,relation
 "Place Anna Politkovskaïa",wikidata,F,Q131240,way
-"Place Nina Simone",wikidata,F,Q174957,way
 "Rue Germaine Tillion",wikidata,F,Q271991,way
 "Rue Notre-Dame",wikidata,F,Q345,relation
 "Allée Bourvil",wikidata,M,Q2750,way
@@ -17,17 +16,16 @@ name,source,gender,wikidata,type
 "Chemin Bronisław Geremek",wikidata,M,Q157282,way
 "Cour Francis Renaud",wikidata,M,Q2385890,way
 "Esplanade Alain Mimoun",wikidata,M,Q435068,way
-"Esplanade Alfred Jarry",wikidata,M,Q7841,way
 "Esplanade Georges Pompidou",wikidata,M,Q2185,way
 "Esplanade Jacques Chirac",wikidata,M,Q2105,relation+way
 "Esplanade Patrick Dewaere",wikidata,M,Q551439,way
 "Passage Paul Langevin",wikidata,M,Q25320,way
 "Place Alexandre Glais-Bizoin",wikidata,M,Q332320,relation+way
-"Place Édouard Quemper",wikidata,M,Q99674302,way
 "Place François Mitterrand",wikidata,M,Q2038,way
 "Place Louis Guilloux",wikidata,M,Q862935,way
 "Place Saint-Guillaume",wikidata,M,Q3120127,way
 "Place Saint-Pierre",wikidata,M,Q33923,relation+way
+"Place Salvador Allende",wikidata,M,Q440,way
 "Place du Général de Gaulle",wikidata,M,Q2042,relation+way
 "Place du Guesclin",wikidata,M,Q314905,relation+way
 "Rond-Point Clemenceau-Charner",wikidata,M,Q171730;Q1324547,way
@@ -48,7 +46,7 @@ name,source,gender,wikidata,type
 "Rue Kléber",wikidata,M,Q319302,relation+way
 "Rue Montesquieu",wikidata,M,Q15975,relation
 "Rue Pasteur",wikidata,M,Q529,way
-"Rue Paul Bert",wikidata,M,Q735370,relation
+"Rue Paul Bert",wikidata,M,Q735370,relation+way
 "Rue Paul Le Flem",wikidata,M,Q964256,way
 "Rue Pavlov",wikidata,M,Q42985,way
 "Rue Pierre de Coubertin",wikidata,M,Q82984,way

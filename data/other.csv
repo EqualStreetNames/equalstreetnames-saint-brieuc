@@ -10,12 +10,10 @@ name,source,gender,wikidata,type
 "Esplanade du Petit Prince",wikidata,,Q25338,way
 "Mail de L'Europe",wikidata,,Q46,way
 "Place d'Alsdorf",wikidata,,Q6992,relation+way
-"Place de Normandie",wikidata,,Q15878;Q18677875,relation+way
 "Place de l'Hermine",wikidata,,Q384324,way
 "Place de la Liberté",wikidata,,Q2979,relation+way
 "Place des Droits de l'Homme",wikidata,,Q169759;Q7813,way
 "Place du 74e Régiment d'Infanterie Territoriale",wikidata,,Q2818265,relation+way
-"Place du Luxembourg",wikidata,,Q32,relation+way
 "Place du Roi Arthur",wikidata,,Q45792,relation+way
 "Place du Savonnier",wikidata,,Q267027,way
 "Rond-Point Aberystwyth",wikidata,,Q213154,way
@@ -64,7 +62,6 @@ name,source,gender,wikidata,type
 "Allée du Champ de Mars",,,,way
 "Allée du Marché",,,,relation
 "Allée du Tertre Boissel",,,,relation
-"Ancienne voie ferrée de desserte du port du Legué",,,,way
 "Ancienne voie ferrée de desserte du port du Légué",,,,way
 "Avenue Antoine Mazier",,,,relation
 "Avenue Loucheur",,,,relation
@@ -144,7 +141,7 @@ name,source,gender,wikidata,type
 "Impasse de la Ville Drollée",,,,relation
 "Impasse de la Ville Gueury",,,,relation
 "Impasse du Champ des Nues",,,,relation
-"Impasse du Pré Tizon",,,,relation
+"Impasse du Pré Tizon",,,,relation+way
 "Le Hentig Glas",,,,way
 "Le Henting Glas",,,,way
 "Passage Georges Brassens",,,,way
@@ -166,6 +163,7 @@ name,source,gender,wikidata,type
 "Place Saint-Michel",,,,relation
 "Place Sainte-Thérèse",,,,relation
 "Place au Lin",,,,relation
+"Place de Normandie",,,,relation
 "Place de la Cité",,,,relation+way
 "Place de la Fontaine Saint-Ignace",,,,relation
 "Place de la Grille",,,,way
@@ -173,6 +171,7 @@ name,source,gender,wikidata,type
 "Place de la Résistance",,,,relation
 "Place du 8 Mai 1945",,,,way
 "Place du Chai",,,,relation+way
+"Place du Luxembourg",,,,relation
 "Place du Marché",,,,way
 "Place du Martray",,,,relation
 "Place du Perroquet Vert",,,,way
@@ -183,8 +182,7 @@ name,source,gender,wikidata,type
 "Pont Tournant du Gouet",,,,way
 "Pont de Pierre",,,,way
 "Quai Armez",,,,relation
-"Quai Surcouf",,,,relation
-"Quay Surcouf",,,,way
+"Quai Surcouf",,,,relation+way
 "Rampe d'accès pour fauteil roulant",,,,way
 "Rampe des Forges",,,,relation
 "Rond-Point Alfred de Musset",,,,relation
