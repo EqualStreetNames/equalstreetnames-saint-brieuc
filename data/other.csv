@@ -169,6 +169,7 @@ name,source,gender,wikidata,type
 "Place de la Grille",,,,way
 "Place de la Madeleine",,,,way
 "Place de la Résistance",,,,relation
+"Place de la résistance",,,,way
 "Place du 8 Mai 1945",,,,way
 "Place du Chai",,,,relation+way
 "Place du Luxembourg",,,,relation
@@ -531,7 +532,7 @@ name,source,gender,wikidata,type
 "Rue Ruffelet",,,,relation
 "Rue Saint-Benoît",,,,relation
 "Rue Saint-Exupéry",,,,relation
-"Rue Saint-François",,,,relation
+"Rue Saint-François",,,,relation+way
 "Rue Saint-Gilles",,,,relation
 "Rue Saint-Guillaume",,,,relation
 "Rue Saint-Jacques",,,,relation
@@ -754,7 +755,7 @@ name,source,gender,wikidata,type
 "Rue du Clos des Sternes",,,,relation
 "Rue du Colombier",,,,relation
 "Rue du Colonel Fabien",,,,relation
-"Rue du Combat des Trente",,,,relation
+"Rue du Combat des Trente",,,,relation+way
 "Rue du Commandant Le Conniat",,,,relation
 "Rue du Commandant d'Estienne d'Orves",,,,relation
 "Rue du Commandant l'Herminier",,,,relation
