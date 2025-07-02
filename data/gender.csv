@@ -19,6 +19,7 @@ name,source,gender,wikidata,type
 "Esplanade Georges Pompidou",wikidata,M,Q2185,way
 "Esplanade Jacques Chirac",wikidata,M,Q2105,relation+way
 "Esplanade Patrick Dewaere",wikidata,M,Q551439,way
+"Passage Georges Brassens",wikidata,M,Q449,way
 "Passage Paul Langevin",wikidata,M,Q25320,way
 "Place Alexandre Glais-Bizoin",wikidata,M,Q332320,relation+way
 "Place François Mitterrand",wikidata,M,Q2038,way
@@ -43,7 +44,9 @@ name,source,gender,wikidata,type
 "Rue Guy de Maupassant",wikidata,M,Q9327,way
 "Rue Jean Coquelin",wikidata,M,Q100152257,relation
 "Rue Jean Devienne",wikidata,M,Q106368817,relation
+"Rue Jules Ferry",wikidata,M,Q959708,relation+way
 "Rue Kléber",wikidata,M,Q319302,relation+way
+"Rue Lafayette",wikidata,M,Q186652,relation+way
 "Rue Montesquieu",wikidata,M,Q15975,relation
 "Rue Pasteur",wikidata,M,Q529,way
 "Rue Paul Bert",wikidata,M,Q735370,relation+way

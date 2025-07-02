@@ -142,9 +142,9 @@ name,source,gender,wikidata,type
 "Impasse de la Ville Gueury",,,,relation
 "Impasse du Champ des Nues",,,,relation
 "Impasse du Pré Tizon",,,,relation+way
+"La croix saint Lenbert",,,,way
 "Le Hentig Glas",,,,way
 "Le Henting Glas",,,,way
-"Passage Georges Brassens",,,,way
 "Passage Jean-Baptiste Illio",,,,relation
 "Passage Max Le Bail",,,,relation
 "Passage Souzain",,,,relation
@@ -168,8 +168,7 @@ name,source,gender,wikidata,type
 "Place de la Fontaine Saint-Ignace",,,,relation
 "Place de la Grille",,,,way
 "Place de la Madeleine",,,,way
-"Place de la Résistance",,,,relation
-"Place de la résistance",,,,way
+"Place de la Résistance",,,,relation+way
 "Place du 8 Mai 1945",,,,way
 "Place du Chai",,,,relation+way
 "Place du Luxembourg",,,,relation
@@ -402,14 +401,12 @@ name,source,gender,wikidata,type
 "Rue Joseph le Brix",,,,relation
 "Rue Jouallan",,,,relation
 "Rue Jules Bordet",,,,relation
-"Rue Jules Ferry",,,,relation+way
 "Rue Jules Guesde",,,,relation
 "Rue Jules Lamare",,,,relation
 "Rue Jules Simon",,,,relation
 "Rue Jules Vallès",,,,relation
 "Rue Jules Verne",,,,relation
 "Rue La Bruyère",,,,relation
-"Rue Lafayette",,,,relation+way
 "Rue Lamarck",,,,relation
 "Rue Lamennais",,,,relation
 "Rue Lapicque",,,,relation
