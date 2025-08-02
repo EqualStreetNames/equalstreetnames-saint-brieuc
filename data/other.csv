@@ -126,6 +126,7 @@ name,source,gender,wikidata,type
 "Escalier Alfred de Musset",,,,relation
 "Esplanade Professeur Jean Bernard",,,,way
 "Esplanade Raoul Poupard",,,,way
+"Hentig Glas",,,,way
 "Impasse Alfred Kastler",,,,relation
 "Impasse Antoine Bourdelle",,,,relation
 "Impasse Coëtlogon",,,,relation
@@ -801,7 +802,6 @@ name,source,gender,wikidata,type
 "Rue du Vieux Puits",,,,relation
 "Rue du Vieux Séminaire",,,,relation
 "Rue le Floch",,,,relation
-"Sarah Bernhardt",,,,way
 "Sentier de la Rivière",,,,way
 "Sentier de la rivière",,,,way
 "Square Alfred Millet",,,,way
