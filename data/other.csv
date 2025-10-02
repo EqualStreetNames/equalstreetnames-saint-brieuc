@@ -1,45 +1,4 @@
 name,source,gender,wikidata,type
-"Allée d'Île-de-France",wikidata,,Q13917,way
-"Allée de Molène",wikidata,,Q3319697,way
-"Allée de la Plaine",wikidata,,Q160091,way
-"Allée des Sirènes",wikidata,,Q182559,way
-"Boulevard de l'Atlantique",wikidata,,Q97,relation
-"Chemin de l'Écluse",wikidata,,Q105731,way
-"Chemin des Eaux Minérales",wikidata,,Q178921,relation+way
-"Esplanade des Prix Nobel",wikidata,,Q7191,relation+way
-"Esplanade du Petit Prince",wikidata,,Q25338,way
-"Mail de L'Europe",wikidata,,Q46,way
-"Place d'Alsdorf",wikidata,,Q6992,relation+way
-"Place de l'Hermine",wikidata,,Q384324,way
-"Place de la Liberté",wikidata,,Q2979,relation+way
-"Place des Droits de l'Homme",wikidata,,Q169759;Q7813,way
-"Place du 74e Régiment d'Infanterie Territoriale",wikidata,,Q2818265,relation+way
-"Place du Roi Arthur",wikidata,,Q45792,relation+way
-"Place du Savonnier",wikidata,,Q267027,way
-"Rond-Point Aberystwyth",wikidata,,Q213154,way
-"Rond-Point Agadez",wikidata,,Q320049,way
-"Rond-Point d'Iroise",wikidata,,Q208962,way
-"Rond-Point de Gabès",wikidata,,Q215661,way
-"Rond-Point de la Corderie",wikidata,,Q41085665,way
-"Rond-Point de la Croix Mathias",wikidata,,Q22925331,way
-"Rond-Point de la Fontaine",wikidata,,Q483453,way
-"Rond-Point des Familles",wikidata,,Q3550343,way
-"Rond-Point des Gallois",wikidata,,Q188353,way
-"Rond-Point du 19 Mars 1962",wikidata,,Q101251244,way
-"Rond-Point du Camp de Rawa-Ruska",wikidata,,Q16720963,way
-"Rue J.H. Rosny",wikidata,,Q2570161,relation
-"Rue de Genève",wikidata,,Q71,relation
-"Rue de Gouédic",wikidata,,Q95588011,relation+way
-"Rue de Jersey",wikidata,,Q15706498,relation
-"Rue de Paris",wikidata,,Q90,relation
-"Rue de Trégueux",wikidata,,Q476687,relation
-"Rue de la Fontaine Saint-Brieuc",wikidata,,Q22925332,relation
-"Rue de la République",wikidata,,Q17152708,relation+way
-"Rue des Minquiers",wikidata,,Q1435852,way
-"Rue du 71ème Régiment d'Infanterie",wikidata,,Q2818235,relation
-"Rue du Légué",wikidata,,Q3270301,relation
-"Rue du Tertre Aubé",wikidata,,Q59343241,way
-"Square de la Palestine",wikidata,,Q23792,way
 "Allée Boileau",,,,way
 "Allée Chaptal",,,,relation
 "Allée Diderot",,,,relation
@@ -79,7 +38,6 @@ name,source,gender,wikidata,type
 "Boulevard Arago",,,,relation
 "Boulevard Carnot",,,,relation+way
 "Boulevard Charner",,,,relation
-"Boulevard Clemenceau",,,,relation+way
 "Boulevard Édouard Herriot",,,,relation
 "Boulevard Édouard Prigent",,,,relation
 "Boulevard Gambetta",,,,relation
@@ -102,6 +60,7 @@ name,source,gender,wikidata,type
 "Boulevard de la Ville Jouha",,,,relation
 "Chemin Moulin Persas",,,,way
 "Chemin de Belle Isle",,,,relation
+"Chemin de Grosse",,,,way
 "Chemin de la Gravelouse",,,,relation
 "Chemin de la Planche",,,,way
 "Chemin de la Porette",,,,relation
@@ -127,6 +86,7 @@ name,source,gender,wikidata,type
 "Esplanade Professeur Jean Bernard",,,,way
 "Esplanade Raoul Poupard",,,,way
 "Hentig Glas",,,,way
+"Hentig glas",,,,way
 "Impasse Alfred Kastler",,,,relation
 "Impasse Antoine Bourdelle",,,,relation
 "Impasse Coëtlogon",,,,relation
@@ -188,7 +148,6 @@ name,source,gender,wikidata,type
 "Rampe des Forges",,,,relation
 "Rond-Point Alfred de Musset",,,,relation
 "Rond-Point Joëlle Aubrée",,,,way
-"Rond-Point Palasne de Champeaux",,,,way
 "Rond-Point d'Aghia Paraskevi",,,,relation
 "Rond-Point de l'Ancien Vélodrome",,,,way
 "Rond-Point de l'Aurore",,,,relation
@@ -198,7 +157,6 @@ name,source,gender,wikidata,type
 "Rond-Point de la Ville Oger",,,,way
 "Rond-Point des Tuileries",,,,way
 "Rond-Point du Lieutenant Huguin",,,,way
-"Rond-Point du Pont de Pierre",,,,way
 "Rue Abbé Duchesne",,,,relation
 "Rue Abbé Eugène Fleury",,,,relation
 "Rue Abbé Garnier",,,,relation
