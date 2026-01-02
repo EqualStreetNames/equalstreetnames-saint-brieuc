@@ -85,8 +85,6 @@ name,source,gender,wikidata,type
 "Escalier Alfred de Musset",,,,relation
 "Esplanade Professeur Jean Bernard",,,,way
 "Esplanade Raoul Poupard",,,,way
-"Hentig Glas",,,,way
-"Hentig glas",,,,way
 "Impasse Alfred Kastler",,,,relation
 "Impasse Antoine Bourdelle",,,,relation
 "Impasse Coëtlogon",,,,relation
@@ -105,7 +103,7 @@ name,source,gender,wikidata,type
 "Impasse du Pré Tizon",,,,relation+way
 "La croix saint Lenbert",,,,way
 "Le Hentig Glas",,,,way
-"Le Henting Glas",,,,way
+"Ligne de Saint-Brieuc au Légué",,,,way
 "Passage Jean-Baptiste Illio",,,,relation
 "Passage Max Le Bail",,,,relation
 "Passage Souzain",,,,relation
