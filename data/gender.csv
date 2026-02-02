@@ -2,7 +2,7 @@ name,source,gender,wikidata,type
 "Rue Frédéric et Irène Joliot-Curie",wikidata,+,Q150989;Q7504,relation
 "Allée d'Île-de-France",wikidata,-,Q13917,way
 "Allée de Molène",wikidata,-,Q3319697,way
-"Allée de la Plaine",wikidata,-,Q160091,way
+"Allée de la Plaine",wikidata,-,,way
 "Allée des Sirènes",wikidata,-,Q182559,way
 "Boulevard de l'Atlantique",wikidata,-,Q97,relation
 "Chemin de l'Écluse",wikidata,-,Q105731,way

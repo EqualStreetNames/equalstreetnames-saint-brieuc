@@ -50,7 +50,7 @@ name,source,gender,wikidata,type
 "Boulevard Robert Schuman",,,,relation
 "Boulevard Saint Jean-Baptiste de la Salle",,,,relation
 "Boulevard Sévigné",,,,relation
-"Boulevard Vauban",,,,relation
+"Boulevard Vauban",,,,relation+way
 "Boulevard de Plélo",,,,relation
 "Boulevard de la Chalotais",,,,way
 "Boulevard de la Commune",,,,relation
@@ -392,7 +392,7 @@ name,source,gender,wikidata,type
 "Rue Louis Tiercelin",,,,relation
 "Rue Louis-Nathaniel Rossel",,,,relation
 "Rue Louise Michel",,,,relation
-"Rue Luzel",,,,relation
+"Rue Luzel",,,,relation+way
 "Rue Magellan",,,,relation
 "Rue Mansart",,,,relation
 "Rue Marc Chagall",,,,relation
