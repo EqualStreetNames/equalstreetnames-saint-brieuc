@@ -41,11 +41,13 @@ name,source,gender,wikidata,type
 "Rue du Légué",wikidata,-,Q3270301,relation
 "Rue du Tertre Aubé",wikidata,-,Q59343241,way
 "Square de la Palestine",wikidata,-,Q23792,way
+"Allée Flora Tristan",wikidata,F,Q254068,relation
 "Avenue du Tertre Notre-Dame",wikidata,F,Q345,relation
 "Place Anna Politkovskaïa",wikidata,F,Q131240,way
 "Rue Germaine Tillion",wikidata,F,Q271991,way
 "Rue Notre-Dame",wikidata,F,Q345,relation
 "Sarah Bernhardt",wikidata,F,Q4605,way
+"Allée Boileau",wikidata,M,Q188857,way
 "Allée Bourvil",wikidata,M,Q2750,way
 "Allée Fernandel",wikidata,M,Q129092,way
 "Allée Louis de Funès",wikidata,M,Q2737,way
