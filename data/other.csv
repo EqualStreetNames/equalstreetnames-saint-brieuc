@@ -27,7 +27,7 @@ name,source,gender,wikidata,type
 "Avenue d'Armor",,,,relation
 "Avenue d'Armorique",,,,relation
 "Avenue de France",,,,relation
-"Avenue de la Libération",,,,relation
+"Avenue de la Libération",,,,relation+way
 "Avenue des Plaines Villes",,,,way
 "Avenue des Promenades",,,,relation
 "Avenue des Tilleuls",,,,relation
@@ -769,4 +769,3 @@ name,source,gender,wikidata,type
 "Voie de la Région Bretagne",,,,relation
 "accès à la passerelle de l'écluse",,,,way
 "coulée verte vallée de gouédic",,,,way
-"franchissement passerelle nord de l'écluse",,,,way
