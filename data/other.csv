@@ -196,7 +196,7 @@ name,source,gender,wikidata,type
 "Rue Auguste Rodin",,,,relation
 "Rue Bachelard",,,,relation
 "Rue Bagot",,,,relation
-"Rue Balzac",,,,relation+way
+"Rue Balzac",,,,relation
 "Rue Baratoux",,,,relation
 "Rue Barde Abhervé",,,,relation
 "Rue Baudelaire",,,,relation
@@ -422,7 +422,6 @@ name,source,gender,wikidata,type
 "Rue Mireille Chrisostome",,,,relation
 "Rue Molière",,,,relation
 "Rue Monge",,,,relation
-"Rue Monseigneur Morelle",,,,relation
 "Rue Morgan",,,,relation
 "Rue Morvan Lebesque",,,,relation
 "Rue Mozart",,,,relation
