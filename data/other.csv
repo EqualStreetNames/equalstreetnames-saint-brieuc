@@ -57,6 +57,7 @@ name,source,gender,wikidata,type
 "Boulevard de la Tour d'Auvergne",,,,relation
 "Boulevard de la Ville Jouha",,,,relation
 "Chemin Moulin Persas",,,,way
+"Chemin de Belle Île",,,,way
 "Chemin de Belle Isle",,,,relation
 "Chemin de Grosse",,,,way
 "Chemin de la Gravelouse",,,,relation
@@ -768,3 +769,4 @@ name,source,gender,wikidata,type
 "Voie de la Région Bretagne",,,,relation
 "accès à la passerelle de l'écluse",,,,way
 "coulée verte vallée de gouédic",,,,way
+"rue des eaux minérales",,,,way

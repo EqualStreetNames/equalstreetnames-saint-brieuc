@@ -4,7 +4,7 @@ name,source,gender,wikidata,type
 "Allée de Molène",wikidata,-,Q3319697,way
 "Allée de la Plaine",wikidata,-,Q160091,way
 "Allée des Sirènes",wikidata,-,Q182559,way
-"Boulevard de l'Atlantique",wikidata,-,Q97,relation
+"Boulevard de l'Atlantique",wikidata,-,Q97,relation+way
 "Chemin de l'Écluse",wikidata,-,Q105731,way
 "Chemin des Eaux Minérales",wikidata,-,Q178921,relation+way
 "Esplanade des Prix Nobel",wikidata,-,Q7191,relation+way
